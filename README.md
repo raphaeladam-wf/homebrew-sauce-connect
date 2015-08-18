@@ -1,4 +1,4 @@
-### homebrew-sauce-connect
+# homebrew-sauce-connect
 
 This tap installs [Sauce Conncect](https://docs.saucelabs.com/reference/sauce-connect/) to allow secure tunneling between locally run apps and Sauce Labs.
 
