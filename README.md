@@ -1,8 +1,8 @@
 # homebrew-sauce-connect
 
-This tap installs [Sauce Conncect](https://docs.saucelabs.com/reference/sauce-connect/) to allow secure tunneling between locally run apps and Sauce Labs.
+This tap installs [Sauce Connect](https://wiki.saucelabs.com/display/DOCS/Sauce+Connect+Proxy) to allow secure tunneling between locally run apps and Sauce Labs.
 
-Refer to the Sauce-Connect [Release Notes](https://support.saucelabs.com/customer/portal/topics/800450-product-announcements-and-requests/articles) for details on each release.
+Refer to the Sauce-Connect [Release Notes](https://wiki.saucelabs.com/display/DOCS/Sauce+Connect+Proxy+Change+Logs) for details on each release.
 
 ## Installing Sauce-Connect
 ```

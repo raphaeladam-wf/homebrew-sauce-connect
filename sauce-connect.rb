@@ -1,8 +1,8 @@
 require "formula"
 class SauceConnect < Formula
   homepage "https://wiki.saucelabs.com/display/DOCS/Sauce+Connect+Proxy"
-  url "https://saucelabs.com/downloads/sc-4.4.5-osx.zip"
-  sha256 "1f85510350aa0b728052cd0590b4358a5b95376fe93f36f28995f876f998a726"
+  url "https://saucelabs.com/downloads/sc-4.4.8-osx.zip"
+  sha256 "efd6aee54d7ab7e677d813876166b26a7d51161dc81a4f4e5b7899864f671339"
   def install
     bin.install 'bin/sc'
   end
